@@ -18,8 +18,8 @@ This is a project portfolio website built with .NET ASP Core. It includes an adm
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/project-portfolio.git
-   cd project-portfolio
+   git clone https://github.com/fady0101/portfolio-web.git
+   cd portfolio-web
 ````
 
 2. Install dependencies and restore packages:
